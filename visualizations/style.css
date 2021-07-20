@@ -7,6 +7,7 @@
   font-size: 25px;
 }
 
+/* Overall Body*/
 body{
   background-color: rgb(223, 222, 222);
  }
@@ -55,13 +56,14 @@ h3{
 }
 
 
-/* image styling*/
+/* images*/
 .img-thumbnail{
   padding:10px;
   border: none;
 }
 
 
+/* Main Body*/
 .mainbody {
   padding-top: 50px;
   padding-bottom: 80px;
