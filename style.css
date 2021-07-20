@@ -4,6 +4,17 @@ body {
   background-color:#eee;
 }
 
+.col-md-12 {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.mainbody{
+  padding-top: 50px;
+  padding-bottom: 80px;
+  overflow: hidden;
+}
 .navbar-light .navbar-brand {
   color: white;
 }
@@ -11,7 +22,8 @@ body {
 .navbar {
   background-color: white;
   width: 100%;
-  padding: 0;
+  padding: 0;  
+  padding-right: 40px;
 }
 
 .navbar-brand {
@@ -72,6 +84,9 @@ p:not(.intro) {
     float: left;
 }
 
+.col {
+  width: 100%;
+}
 .col-md-8 {
   background-color: white;
 }
