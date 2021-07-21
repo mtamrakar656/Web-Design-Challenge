@@ -81,7 +81,13 @@ This page contains the following:
 * The data came from exporting the .csv file as HTML, or converting it to HTML. 
 * We used Pandas which has has a nifty method approprately called to_html that allows you to generate a HTML table from a pandas dataframe.
 
-
+<b>Data Page (Large View)</b>
+![](Images/data_lg.png)
+<hr class=my-3">
+               
+<b>Data Page (Small View)</b>
+![](Images/data_sm.png)
+<hr class=my-3">
 
 
 
@@ -94,11 +100,3 @@ This page contains the following:
     - Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
     - Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section (notice the background color change).
     - The website must be deployed to GitHub pages.
-
-
-
-
-
-
-
-
