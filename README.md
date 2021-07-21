@@ -13,6 +13,14 @@ This page contains the following:
 * An explanation of the project.
 * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
 
+<b>Landing Page (Large View)</b>
+![](Images/landingpage_lg.png)
+<hr class=my-3">
+
+<b>Landing Page (Small View)</b>
+![](Images/landingpage_sm.png)
+<hr class=my-3">
+               
 
 ## Visualization Pages:
 
